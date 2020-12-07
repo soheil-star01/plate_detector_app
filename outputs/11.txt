@@ -1,0 +1,2 @@
+Car #1: first seen=3.0 sec *** plate #=WNO·836 *** score=4/4
+Car #2: first seen=52.0 sec *** plate #=DGM·487 *** score=1/1
